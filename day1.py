@@ -1,0 +1,11 @@
+print("hello world")
+print('The quick brown fox', 'jumps over', 'the lazy dog')
+print(300)
+print(200 + 100)
+print("200 + 100 =", 200 + 100)
+name = input("请输入你的名字：")
+age = int(input("请输入你的年龄："))
+city = input("请输入你的城市：")
+print("我叫",name,",今年",age,"岁,在",city,"生活。",sep="")
+print("三年后我" + str(age + 3) +"岁。")
+
