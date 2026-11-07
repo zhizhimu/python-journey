@@ -135,7 +135,7 @@ else:
         day = 29
     else:
         day = 28
-        print(f"{year}年{month}月有{day}天")
+print(f"{year}年{month}月有{day}天")
 
 #练习 11：成绩转等级（五档）
 L = int(input("请输入你的成绩："))
